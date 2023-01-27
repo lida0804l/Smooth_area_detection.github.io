@@ -1,4 +1,5 @@
 # Smooth area detection
+The motivation of the project is from my first job, there's a tool from the company's designer, to use that tool we need to input the coordinates of smooth area, and we know that large amounts of training data is always better to observe the data distribution to increase model accuracy, so this inspired me to design a program able to automatically detect smooth area within the image, this save about 80% of my time to collect the data and increase the accuracy of designer's tool.
 
 <p align="center">
    <br>
