@@ -36,7 +36,7 @@ To adjust the sizes of the grid is also available, this determine how precise th
    <br>
 </p>
 
-# User interface <br>
+# Implementation <br>
 
 
 <p align="center">
