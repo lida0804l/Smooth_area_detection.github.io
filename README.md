@@ -7,7 +7,7 @@
 </p>
 
 # User interface
-The program is able to detect smooth area within the image, to increase flaxibility there're some parameters available for the user to define how smooth and how large the area to be detected.
+The program is able to detect smooth area within the image, to increase flexibility there're some parameters available for the user to define how smooth and how large the area to be detected.
 
 **Default configuration** <br>
 To click on "file->Open" to load image (.jpg/.bmp/.png/.tif)
