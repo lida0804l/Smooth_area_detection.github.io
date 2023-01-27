@@ -7,7 +7,7 @@
 </p>
 
 # User interface
-Here we have a user interface to perform motion deblur by the following steps:
+The program is able to detect smooth area within the image, to increasing flaxibility there're some parameters available for the user to define how smooth and how large the area to be detected.
 
 **Default configuration** <br>
 To click on "file->Open" to load image (.jpg/.bmp/.png/.tif)
