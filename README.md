@@ -27,7 +27,8 @@ To define smoothness of the area is sometimes subjective or depending on applica
    <br>
 </p>
 
-# 4_Control_panel_increasing_grid_sizes
+**Grid sizes** <br>
+To adjust the sizes of the grid is also available, this determine how precise the detection unit should be and the overall amount of rectangles generated:
 
 <p align="center">
    <br>
@@ -35,7 +36,8 @@ To define smoothness of the area is sometimes subjective or depending on applica
    <br>
 </p>
 
-# 5_Entropy
+# User interface <br>
+
 
 <p align="center">
    <br>
