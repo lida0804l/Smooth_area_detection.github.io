@@ -37,7 +37,7 @@ To adjust the sizes of the grid is also available, this determine how precise th
 </p>
 
 # Implementation <br>
-
+Recall the concept of entropy determines the amount of information of an event, an event that is guranteed to happened is considered small information content(which corresponds to the histogram of smooth area), meanwhile an event that contains high amount of uncertainty is considered high information content(which corresponds to the histogram of compound area), this is the key concept using throughout the project:
 
 <p align="center">
    <br>
