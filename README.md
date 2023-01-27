@@ -10,7 +10,7 @@
 The program is able to detect smooth area within the image, to increase flexibility there're some parameters available for the user to define how smooth and how large the area to be detected.
 
 **Default configuration** <br>
-By clicking on "file->Open" to load image, then click on "Edit->Control_panel" to enable the control panel for customize usage:
+By clicking on "file->Open" to load image, then click on "Edit->Control_panel" to enable the control panel for customize usage, the parameters is adjustable and is initiated with default configuration:
 
 <p align="center">
    <br>
