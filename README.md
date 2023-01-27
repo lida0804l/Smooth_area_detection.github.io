@@ -6,7 +6,11 @@
    <br>
 </p>
 
-# 2_Control_panel_default_configuration
+# User interface
+Here we have a user interface to perform motion deblur by the following steps:
+
+**Step 1.** Load image <br>
+To click on "file->Open" to load image (.jpg/.bmp/.png/.tif)
 
 <p align="center">
    <br>
