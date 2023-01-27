@@ -18,7 +18,8 @@ By clicking on "file->Open" to load image, then click on "Edit->Control_panel" t
    <br>
 </p>
 
-# 3_Control_panel_increasing_criteria
+**Criteria for smoothness** <br>
+To define smoothness of the area is sometimes subjective or depending on application, this motivated me to invoke the concept of entropy for the situation, here the user is able to define smoothness by sliding the bar to interactively see the changes been made:
 
 <p align="center">
    <br>
